@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/media/hyh/Study/HYH/Post/SSP/Project/HelloWorld/build",
+  "command": "g++    -I/media/hyh/Study/HYH/Post/SSP/Project/HelloWorld/include   -std=c++11 -march=native -O3 -pthread  -O0 -Wall -g2 -ggdb   -o CMakeFiles/HelloWorld.dir/src/main.cpp.o -c /media/hyh/Study/HYH/Post/SSP/Project/HelloWorld/src/main.cpp",
+  "file": "/media/hyh/Study/HYH/Post/SSP/Project/HelloWorld/src/main.cpp"
+},
+{
+  "directory": "/media/hyh/Study/HYH/Post/SSP/Project/HelloWorld/build",
+  "command": "g++    -I/media/hyh/Study/HYH/Post/SSP/Project/HelloWorld/include   -std=c++11 -march=native -O3 -pthread  -O0 -Wall -g2 -ggdb   -o CMakeFiles/HelloWorld.dir/src/point.cpp.o -c /media/hyh/Study/HYH/Post/SSP/Project/HelloWorld/src/point.cpp",
+  "file": "/media/hyh/Study/HYH/Post/SSP/Project/HelloWorld/src/point.cpp"
+}
+]

@@ -1,0 +1,3 @@
+/media/hyh/Study/HYH/Post/SSP/Project/HelloWorld/build/CMakeFiles/edit_cache.dir
+/media/hyh/Study/HYH/Post/SSP/Project/HelloWorld/build/CMakeFiles/rebuild_cache.dir
+/media/hyh/Study/HYH/Post/SSP/Project/HelloWorld/build/CMakeFiles/HelloWorld.dir
