@@ -11,7 +11,7 @@ int func(int n)
 }
 
 
-main()
+int main()
 {
     int i = 0;
     int result = 0;
@@ -22,4 +22,6 @@ main()
 
     printf("result[1-100] = %d \n", result);
     printf("result[1-250] = %d \n", func(250));
+   
+    return 0;
 }
